@@ -5,6 +5,7 @@ graph.py :
     it uses : tkinter, ttk , math , time modules 
 
 graph.exe :
+
     the executable program of graph.py
 
     When you enter units of axes x & y make sure your number between:
